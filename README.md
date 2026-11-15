@@ -20,8 +20,10 @@
 - Day 17: The Quiz Project & The Benefits of OOP
 - Day 18: Turtle & the Graphical User Interface (GUI)
 - Day 19: Instances, State and Higher Order Functions
+- ongoing....
 
 **Tools and Technologies Covered**
 - Python 3
 - PyCharm
 - Turtle
+- ongoing...
