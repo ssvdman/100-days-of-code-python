@@ -10,4 +10,6 @@
 ## Snake Game Part 1
 Build the first part of the Snake game by creating the game screen, moving the snake, and handling movement based on the screen coordinates.
 
+![Snake game demo](asset/Animation.gif)
+
 [Open the Snake Game Part 1 project](./snake-game-p1/)
