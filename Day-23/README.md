@@ -9,7 +9,7 @@
 - Increasing difficulty as the player advances
 
 ## Turtle Crossing Game
-Help the turtle cross the road without colliding with moving cars. The player advances upward with the `Up` arrow key and earns a level increase after reaching the finish line.
+Help the turtle cross the road without colliding with moving cars. The player advances upward with the `W` arrow key and earns a level increase after reaching the finish line.
 
 ![Turtle Crossing demo](assets/Animation.gif)
 
